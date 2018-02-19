@@ -1,2 +1,2 @@
 #siskel
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+This is a simple movie list app built with Backbone.js
